@@ -2,7 +2,5 @@
 #venv\Scripts\activate
 fastapi
 pydantic
-typing
 langchain
-dotenv
-json
+python-dotenv
